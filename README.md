@@ -1,7 +1,7 @@
 Jupyter notebooks
 =================
 
-nbviewer: https://nbviewer.org/github/xflr6/notebooks/tree/master/
+nbviewer: https://nbviewer.org/github/xflr6/notebooks/
 
 
 Other notebooks
